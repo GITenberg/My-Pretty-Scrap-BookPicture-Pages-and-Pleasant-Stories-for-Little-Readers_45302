@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '9593'
     url: http://www.gutenberg.org/2009/agents/9593
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45302#My-Pretty-Scrap-BookPicture-Pages-and-Pleasant-Stories-for-Little-Readers
 gutenberg_issued: '2014-04-01'
 gutenberg_type: Text
 identifiers:
